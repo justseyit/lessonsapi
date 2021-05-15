@@ -51,7 +51,7 @@
     {
         "id": 8,
         "lessonName": "Ders - 8",
-        "lessonDateTimeTime": "2021-09-01",
+        "lessonDateTime": "2021-09-01",
         "lessonLink": "http://derslinki.com",
         "lessonLecturer": "Öğretim Görevlisi - 8"
     }
