@@ -1,0 +1,60 @@
+{
+    "lessons": [
+        {
+            "id": 1,
+            "lessonName": "Ders - 1",
+            "lessonDate": "2000-01-01 00:00:00.000",
+            "lessonLink": "http://derslinki.com",
+            "lessonLecturer": "Öğretim Görevlisi - 1"
+        },
+        {
+            "id": 2,
+            "lessonName": "Ders - 2",
+            "lessonDate": "2000-01-01 00:00:00.000",
+            "lessonLink": "http://derslinki.com",
+            "lessonLecturer": "Öğretim Görevlisi - 2"
+        },
+        {
+            "id": 3,
+            "lessonName": "Ders - 3",
+            "lessonDate": "2000-01-01 00:00:00.000",
+            "lessonLink": "http://derslinki.com",
+            "lessonLecturer": "Öğretim Görevlisi - 3"
+        },
+        {
+            "id": 4,
+            "lessonName": "Ders - 4",
+            "lessonDate": "2000-01-01 00:00:00.000",
+            "lessonLink": "http://derslinki.com",
+            "lessonLecturer": "Öğretim Görevlisi - 4"
+        },
+        {
+            "id": 5,
+            "lessonName": "Ders - 5",
+            "lessonDate": "2021-09-01 00:00:00.000",
+            "lessonLink": "http://derslinki.com",
+            "lessonLecturer": "Öğretim Görevlisi - 5"
+        },
+        {
+            "id": 6,
+            "lessonName": "Ders - 6",
+            "lessonDate": "2021-09-01 00:00:00.000",
+            "lessonLink": "http://derslinki.com",
+            "lessonLecturer": "Öğretim Görevlisi - 6"
+        },
+        {
+            "id": 7,
+            "lessonName": "Ders - 7",
+            "lessonDate": "2021-09-01 00:00:00.000",
+            "lessonLink": "http://derslinki.com",
+            "lessonLecturer": "Öğretim Görevlisi - 7"
+        },
+        {
+            "id": 8,
+            "lessonName": "Ders - 8",
+            "lessonDate": "2021-09-01 00:00:00.000",
+            "lessonLink": "http://derslinki.com",
+            "lessonLecturer": "Öğretim Görevlisi - 8"
+        }
+    ]
+}
